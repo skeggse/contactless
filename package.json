@@ -1,0 +1,13 @@
+{
+  "name": "contactless",
+  "version": "0.0.1",
+  "main": "index.html",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "express": "^4.15.2",
+    "simple-oauth2": "^1.2.0",
+    "superagent": "^3.5.2",
+    "xml": "^1.0.1",
+    "xml2js": "^0.4.17"
+  }
+}

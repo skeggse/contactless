@@ -1,2 +1,4 @@
-# contactless
-Simple UI to manage domain shared contacts in g suite
+contactless
+===========
+
+Simple UI to manage domain shared contacts in G Suite.
